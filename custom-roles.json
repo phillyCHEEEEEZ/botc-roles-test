@@ -1234,7 +1234,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player: they die. [You choose which players are Minions. -? to +? Outsiders]",
     "edition": "experimental",
     "firstNight": 3,
@@ -1251,7 +1251,7 @@
     "setup": true,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night, if the dead outnumber the living, you learn 1 alive character. The Demon knows who you are.",
     "edition": "ks",
     "firstNight": 13,
@@ -1265,7 +1265,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.",
     "edition": "snv",
     "firstNight": null,
@@ -1279,7 +1279,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "You start knowing 2 players that are not the Demon.",
     "edition": "experimental",
     "firstNight": 49,
@@ -1296,7 +1296,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
     "edition": "ks",
     "firstNight": null,
@@ -1313,7 +1313,7 @@
     "setup": true,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins.",
     "edition": "ks",
     "firstNight": 64,
@@ -1334,7 +1334,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
     "edition": "tb",
     "firstNight": 38,
@@ -1351,7 +1351,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the Demon\". A player dies each night*. [+1 Minion]",
     "edition": "experimental",
     "firstNight": 18,
@@ -1369,7 +1369,7 @@
     "setup": true,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if & only if they die.",
     "edition": "ks",
     "firstNight": 19,
@@ -1386,7 +1386,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
     "edition": "bmr",
     "firstNight": 10,
@@ -1404,7 +1404,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Each night*, choose a living player: if good, they die, but they are the only player that can die tonight.",
     "edition": "ks",
     "firstNight": null,
@@ -1420,7 +1420,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
     "edition": "ks",
     "firstNight": 7,
@@ -1434,7 +1434,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "You think you are a good character but you are not. The Demon knows who you are. [You neighbour the Demon]",
     "edition": "ks",
     "firstNight": 15,
@@ -1451,7 +1451,7 @@
     "setup": true,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.",
     "edition": "bmr",
     "firstNight": null,
@@ -1465,7 +1465,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Each night, you learn how many players\u2019 abilities worked abnormally (since dawn) due to another character's ability.",
     "edition": "snv",
     "firstNight": 62,
@@ -1481,7 +1481,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.",
     "edition": "bmr",
     "firstNight": null,
@@ -1495,7 +1495,7 @@
     "setup": false,
     "team": "traveler"
   },
-  "": {
+  {
     "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
     "edition": "tb",
     "firstNight": null,
@@ -1509,7 +1509,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "You start knowing a secret word. The 1st good player to say this word becomes evil that night.",
     "edition": "experimental",
     "firstNight": null,
@@ -1526,7 +1526,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "You start knowing a secret word. The 1st good player to say this word becomes evil that night.",
     "edition": "ks",
     "firstNight": 31,
@@ -1543,7 +1543,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.",
     "edition": "bmr",
     "firstNight": null,
@@ -1559,7 +1559,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
     "edition": "tb",
     "firstNight": null,
@@ -1575,7 +1575,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.",
     "edition": "bmr",
     "firstNight": null,
@@ -1591,7 +1591,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "If you are \u201cmad\u201d about being an Outsider, you might be executed.",
     "edition": "snv",
     "firstNight": null,
@@ -1605,7 +1605,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Once per game, at night, choose a player: they learn who you are.",
     "edition": "experimental",
     "firstNight": 55,
@@ -1621,7 +1621,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "You start knowing 3 players, 1 and only 1 of which is evil.",
     "edition": "ks",
     "firstNight": 50,
@@ -1637,7 +1637,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned.",
     "edition": "snv",
     "firstNight": null,
@@ -1654,7 +1654,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
     "edition": "experimental",
     "firstNight": 58,
@@ -1667,7 +1667,7 @@
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ogre.png",
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
     "edition": "experimental",
     "firstNight": null,
@@ -1683,7 +1683,7 @@
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ojo.png",
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night*, you learn how many dead players are evil.",
     "edition": "snv",
     "firstNight": null,
@@ -1697,7 +1697,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
     "edition": "experimental",
     "firstNight": null,
@@ -1713,7 +1713,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Executed good players might not die.",
     "edition": "bmr",
     "firstNight": null,
@@ -1727,7 +1727,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.",
     "edition": "snv",
     "firstNight": 2,
@@ -1744,7 +1744,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary.",
     "edition": "snv",
     "firstNight": null,
@@ -1758,7 +1758,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.",
     "edition": "ks",
     "firstNight": 33,
@@ -1775,7 +1775,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
     "edition": "experimental",
     "firstNight": null,
@@ -1792,7 +1792,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
     "edition": "bmr",
     "firstNight": null,
@@ -1809,7 +1809,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
     "edition": "tb",
     "firstNight": 20,
@@ -1825,7 +1825,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "If you were the player most responsible for your team losing, you change alignment & win, even if dead.",
     "edition": "experimental",
     "firstNight": null,
@@ -1839,7 +1839,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
     "edition": "ks",
     "firstNight": 5,
@@ -1855,7 +1855,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.",
     "edition": "experimental",
     "firstNight": 17,
@@ -1871,7 +1871,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
     "edition": "bmr",
     "firstNight": null,
@@ -1888,7 +1888,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
     "edition": "ks",
     "firstNight": null,
@@ -1902,7 +1902,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.",
     "edition": "bmr",
     "firstNight": 32,
@@ -1919,7 +1919,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.",
     "edition": "ks",
     "firstNight": null,
@@ -1936,7 +1936,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "If you die at night, you are woken to choose a player: you learn their character.",
     "edition": "tb",
     "firstNight": null,
@@ -1950,7 +1950,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "You might register as evil & as a Minion or Demon, even if dead.",
     "edition": "tb",
     "firstNight": null,
@@ -1964,7 +1964,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "2 neighboring players are known to be the same alignment. Once per game, one of them registers falsely.",
     "edition": "base3",
     "firstNight": null,
@@ -1980,7 +1980,7 @@
     "setup": false,
     "team": "fabled"
   },
-  "": {
+  {
     "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
     "edition": "ks",
     "firstNight": null,
@@ -1994,7 +1994,7 @@
     "setup": true,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "If the Demon kills you, you learn that it is 1 of 2 players.",
     "edition": "snv",
     "firstNight": null,
@@ -2008,7 +2008,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die.",
     "edition": "bmr",
     "firstNight": 14,
@@ -2024,7 +2024,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "If you die by execution, your team loses.",
     "edition": "tb",
     "firstNight": null,
@@ -2038,7 +2038,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
     "edition": "snv",
     "firstNight": null,
@@ -2052,7 +2052,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "If a player of your alignment is executed, you might be executed instead.",
     "edition": "tb",
     "firstNight": null,
@@ -2066,7 +2066,7 @@
     "setup": false,
     "team": "traveler"
   },
-  "": {
+  {
     "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don\u2019t count)",
     "edition": "tb",
     "firstNight": null,
@@ -2082,7 +2082,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.",
     "edition": "snv",
     "firstNight": 47,
@@ -2098,7 +2098,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "There might be 1 extra or 1 fewer Outsider in play.",
     "edition": "base3",
     "firstNight": null,
@@ -2112,7 +2112,7 @@
     "setup": true,
     "team": "fabled"
   },
-  "": {
+  {
     "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
     "edition": "bmr",
     "firstNight": null,
@@ -2129,7 +2129,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
     "edition": "experimental",
     "firstNight": 52,
@@ -2143,7 +2143,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Once per game, during the day, publicly choose a player: if they are the Demon, they die.",
     "edition": "tb",
     "firstNight": null,
@@ -2159,7 +2159,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
     "edition": "snv",
     "firstNight": 23,
@@ -2175,7 +2175,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Minions start knowing 3 not-in-play characters.",
     "edition": "ks",
     "firstNight": 9,
@@ -2189,7 +2189,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "You are safe from the Demon.",
     "edition": "tb",
     "firstNight": null,
@@ -2203,7 +2203,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "There can't be more than 1 extra evil player.",
     "edition": "base3",
     "firstNight": null,
@@ -2219,7 +2219,7 @@
     "setup": false,
     "team": "fabled"
   },
-  "": {
+  {
     "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
     "edition": "tb",
     "firstNight": 57,
@@ -2233,7 +2233,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "You start knowing 1 good player.",
     "edition": "experimental",
     "firstNight": 48,
@@ -2250,7 +2250,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
     "edition": "ks",
     "firstNight": null,
@@ -2266,7 +2266,7 @@
     "setup": false,
     "team": "fabled"
   },
-  "": {
+  {
     "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
     "edition": "experimental",
     "firstNight": 11,
@@ -2285,7 +2285,7 @@
     "setup": true,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "When you die, 1 player is drunk from now on.",
     "edition": "snv",
     "firstNight": null,
@@ -2301,7 +2301,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "If both your alive neighbours are good, they can't die.",
     "edition": "bmr",
     "firstNight": null,
@@ -2317,7 +2317,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night, choose a player (not yourself): their vote counts negatively tomorrow.",
     "edition": "tb",
     "firstNight": null,
@@ -2333,7 +2333,7 @@
     "setup": false,
     "team": "traveler"
   },
-  "": {
+  {
     "ability": "You might die at any time.",
     "edition": "bmr",
     "firstNight": null,
@@ -2349,7 +2349,7 @@
     "setup": false,
     "team": "outsider"
   },
-  "": {
+  {
     "ability": "Each night*, you learn if a Minion nominated today.",
     "edition": "snv",
     "firstNight": null,
@@ -2366,7 +2366,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "The Demon may choose not to attack & must do this at least once per game. Evil players get normal starting info.",
     "edition": "base3",
     "firstNight": null,
@@ -2382,7 +2382,7 @@
     "setup": false,
     "team": "fabled"
   },
-  "": {
+  {
     "ability": "Each night*, you learn which character died by execution today.",
     "edition": "tb",
     "firstNight": null,
@@ -2398,7 +2398,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [\u22121 Outsider]",
     "edition": "snv",
     "firstNight": null,
@@ -2416,7 +2416,7 @@
     "setup": true,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
     "edition": "experimental",
     "firstNight": 53,
@@ -2433,7 +2433,7 @@
     "setup": true,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
     "edition": "tb",
     "firstNight": null,
@@ -2449,7 +2449,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
     "edition": "experimental",
     "firstNight": 65,
@@ -2461,7 +2461,7 @@
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vizier.png",
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
     "edition": "snv",
     "firstNight": null,
@@ -2477,7 +2477,7 @@
     "setup": false,
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required.",
     "edition": "bmr",
     "firstNight": null,
@@ -2491,7 +2491,7 @@
     "setup": false,
     "team": "traveler"
   },
-  "": {
+  {
     "ability": "You start knowing that 1 of 2 players is a particular Townsfolk.",
     "edition": "tb",
     "firstNight": 37,
@@ -2508,7 +2508,7 @@
     "setup": false,
     "team": "townsfolk"
   },
-  "": {
+  {
     "ability": "On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play.",
     "edition": "experimental",
     "firstNight": 21,
@@ -2527,7 +2527,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.",
     "edition": "snv",
     "firstNight": 27,
@@ -2543,7 +2543,7 @@
     "setup": false,
     "team": "minion"
   },
-  "": {
+  {
     "ability": "You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
     "edition": "experimental",
     "firstNight": 6,
@@ -2559,7 +2559,7 @@
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/yaggababble.png",
     "team": "demon"
   },
-  "": {
+  {
     "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
     "edition": "bmr",
     "firstNight": null,
