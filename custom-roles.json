@@ -1021,7 +1021,9 @@
     "name": "Grandmother",
     "otherNight": 58,
     "otherNightReminder": "If the Grandmother's grandchild was killed by the Demon tonight: The Grandmother dies.",
-    "reminders": [],
+    "reminders": [
+      "Grandchild"
+    ],
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/grandmother.png",
     "setup": false,
     "team": "townsfolk"
