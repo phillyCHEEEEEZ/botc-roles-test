@@ -457,7 +457,7 @@
     "team": "townsfolk"
   },
   {
-    "ability": "Each night, choose a player & a good character: they are \u201cmad\u201d they are this character tomorrow, or might be executed.",
+    "ability": "Each night, choose a player & a good character: they are \"mad\" they are this character tomorrow, or might be executed.",
     "edition": "snv",
     "firstNight": 28,
     "firstNightReminder": "The Cerenovus points to a player, then to a character on their sheet. Wake that player. Show the 'This character selected you' card, then the Cerenovus token. Show the selected character token. If the player is not mad about being that character tomorrow, they can be executed.",
@@ -476,11 +476,11 @@
     "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
     "edition": "bmr",
     "firstNight": 61,
-    "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
+    "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, ...) for how many of those players wake tonight for their ability.",
     "id": "chambermaid",
     "name": "Chambermaid",
     "otherNight": 79,
-    "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
+    "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, ...) for how many of those players wake tonight for their ability.",
     "reminders": [],
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chambermaid.png",
     "setup": false,
@@ -490,7 +490,7 @@
     "ability": "You start knowing how many pairs of evil players there are.",
     "edition": "tb",
     "firstNight": 40,
-    "firstNightReminder": "Show the finger signal (0, 1, 2, \u2026) for the number of pairs of neighbouring evil players.",
+    "firstNightReminder": "Show the finger signal (0, 1, 2, ...) for the number of pairs of neighbouring evil players.",
     "id": "chef",
     "name": "Chef",
     "otherNight": null,
@@ -595,11 +595,11 @@
     "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die.",
     "edition": "bmr",
     "firstNight": 25,
-    "firstNightReminder": "The Devil\u2019s Advocate points to a living player. That player survives execution tomorrow.",
+    "firstNightReminder": "The Devil's Advocate points to a living player. That player survives execution tomorrow.",
     "id": "devilsadvocate",
     "name": "Devil's Advocate",
     "otherNight": 13,
-    "otherNightReminder": "The Devil\u2019s Advocate points to a living player, different from the previous night. That player survives execution tomorrow.",
+    "otherNightReminder": "The Devil's Advocate points to a living player, different from the previous night. That player survives execution tomorrow.",
     "reminders": [
       "Survives execution"
     ],
@@ -674,7 +674,7 @@
     "id": "duchess",
     "name": "Duchess",
     "otherNight": null,
-    "otherNightReminder": "Wake each player marked \u201cVisitor\u201d or \u201cFalse Info\u201d one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked \u201cVisitor\u201d or, if you are waking the player marked \u201cFalse Info,\u201d show them any number of fingers except the number of evil players marked \u201cVisitor.\u201d",
+    "otherNightReminder": "Wake each player marked \"Visitor\" or \"False Info\" one at a time. Show them the Duchess token, then fingers (1, 2, 3) equaling the number of evil players marked \"Visitor\" or, if you are waking the player marked \"False Info,\" show them any number of fingers except the number of evil players marked \"Visitor.\"",
     "reminders": [
       "Visitor",
       "False Info"
@@ -948,7 +948,7 @@
     "team": "minion"
   },
   {
-    "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [\u22121 or +1 Outsider]",
+    "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
     "edition": "bmr",
     "firstNight": 24,
     "firstNightReminder": "Show each of the Outsider tokens in play.",
@@ -1004,7 +1004,7 @@
     "id": "gossip",
     "name": "Gossip",
     "otherNight": 43,
-    "otherNightReminder": "If the Gossip\u2019s public statement was true: Choose a player not protected from dying tonight. That player dies.",
+    "otherNightReminder": "If the Gossip's public statement was true: Choose a player not protected from dying tonight. That player dies.",
     "reminders": [
       "Dead"
     ],
@@ -1020,7 +1020,7 @@
     "id": "grandmother",
     "name": "Grandmother",
     "otherNight": 58,
-    "otherNightReminder": "If the Grandmother\u2019s grandchild was killed by the Demon tonight: The Grandmother dies.",
+    "otherNightReminder": "If the Grandmother's grandchild was killed by the Demon tonight: The Grandmother dies.",
     "reminders": [
       "Grandchild"
     ],
@@ -1226,7 +1226,7 @@
     "id": "juggler",
     "name": "Juggler",
     "otherNight": 68,
-    "otherNightReminder": "If today was the Juggler\u2019s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers.",
+    "otherNightReminder": "If today was the Juggler's first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers.",
     "reminders": [
       "Correct"
     ],
@@ -1390,7 +1390,7 @@
     "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
     "edition": "bmr",
     "firstNight": 10,
-    "firstNightReminder": "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon\u2019s real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers.",
+    "firstNightReminder": "If 7 or more players: Show the Lunatic a number of arbitrary 'Minions', players equal to the number of Minions in play. Show 3 character tokens of arbitrary good characters. If the token received by the Lunatic is a Demon that would wake tonight: Allow the Lunatic to do the Demon actions. Place their 'attack' markers. Wake the Demon. Show the Demon's real character token. Show them the Lunatic player. If the Lunatic attacked players: Show the real demon each marked player. Remove any Lunatic 'attack' markers.",
     "id": "lunatic",
     "name": "Lunatic",
     "otherNight": 22,
@@ -1466,7 +1466,7 @@
     "team": "minion"
   },
   {
-    "ability": "Each night, you learn how many players\u2019 abilities worked abnormally (since dawn) due to another character's ability.",
+    "ability": "Each night, you learn how many players' abilities worked abnormally (since dawn) due to another character's ability.",
     "edition": "snv",
     "firstNight": 62,
     "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
@@ -1592,7 +1592,7 @@
     "team": "outsider"
   },
   {
-    "ability": "If you are \u201cmad\u201d about being an Outsider, you might be executed.",
+    "ability": "If you are \"mad\" about being an Outsider, you might be executed.",
     "edition": "snv",
     "firstNight": null,
     "firstNightReminder": null,
@@ -1944,7 +1944,7 @@
     "id": "ravenkeeper",
     "name": "Ravenkeeper",
     "otherNight": 59,
-    "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player\u2019s character token.",
+    "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player's character token.",
     "reminders": [],
     "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ravenkeeper.png",
     "setup": false,
@@ -2067,7 +2067,7 @@
     "team": "traveler"
   },
   {
-    "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don\u2019t count)",
+    "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count)",
     "edition": "tb",
     "firstNight": null,
     "firstNightReminder": null,
@@ -2374,7 +2374,7 @@
     "id": "toymaker",
     "name": "Toymaker",
     "otherNight": null,
-    "otherNightReminder": "If it is a night when a Demon attack could end the game, and the Demon is marked \u201cFinal night: No Attack,\u201d then the Demon does not act tonight. (Do not wake them.)",
+    "otherNightReminder": "If it is a night when a Demon attack could end the game, and the Demon is marked \"Final night: No Attack,\" then the Demon does not act tonight. (Do not wake them.)",
     "reminders": [
       "Final Night: No Attack"
     ],
@@ -2390,7 +2390,7 @@
     "id": "undertaker",
     "name": "Undertaker",
     "otherNight": 62,
-    "otherNightReminder": "If a player was executed today: Show that player\u2019s character token.",
+    "otherNightReminder": "If a player was executed today: Show that player's character token.",
     "reminders": [
       "Executed"
     ],
@@ -2399,7 +2399,7 @@
     "team": "townsfolk"
   },
   {
-    "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [\u22121 Outsider]",
+    "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbour. [-1 Outsider]",
     "edition": "snv",
     "firstNight": null,
     "firstNightReminder": null,
